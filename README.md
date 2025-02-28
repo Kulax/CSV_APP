@@ -82,3 +82,20 @@ You can set these up by following the [Vercel KV documentation](https://vercel.c
 ## License
 
 This project is licensed under the MIT License.
+
+## Output(Screenshots)
+![Screenshot 2025-02-28 225134](https://github.com/user-attachments/assets/5e25b475-0149-432b-ac08-ee55d37bba31)
+![Screenshot 2025-02-28 225150](https://github.com/user-attachments/assets/2db446fc-25ec-4664-8393-dc0e7a97a877)
+![Screenshot 2025-02-28 225200](https://github.com/user-attachments/assets/ab9f879f-3d42-4e01-8926-bed307182333)
+![Screenshot 2025-02-28 225210](https://github.com/user-attachments/assets/555ce99b-7a1f-43c4-9433-192020cdb514)
+![Screenshot 2025-02-28 225218](https://github.com/user-attachments/assets/43cfac32-5e72-4b3d-8934-c3f7eb383f20)
+![Screenshot 2025-02-28 225338](https://github.com/user-attachments/assets/701690e2-2690-4bfc-a397-cc68a20919e8)
+![Screenshot 2025-02-28 225355](https://github.com/user-attachments/assets/99849446-e1d0-4d86-acce-3278e05367d1)
+![Screenshot 2025-02-28 225409](https://github.com/user-attachments/assets/75cf87a6-4e8b-4fec-a1da-736e87920503)
+
+
+
+
+
+
+
